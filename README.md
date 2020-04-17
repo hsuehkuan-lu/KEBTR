@@ -1,11 +1,10 @@
-## Knowledge-enhanced Bilingual Textual Representations for Cross-lingual Semantic Textual Similarity
+### Knowledge-enhanced Bilingual Textual Representations for Cross-lingual Semantic Textual Similarity
+
 # Introduction
 
 Cross-lingual representations learning receives high attention recently, but is still restricted by the availability of parallel data. 
 
 In this work we propose a method jointly embed **texts and KB entities** on comparable data. Different to other cross-lingual representations learning methods, our method can apply on weakly-supervised cross-lingual data (articles, paragraphs, and texts), and is still able to capture cross-lingual information well. Our method is validated on **Semantic Textual Similarity (STS)** task, including mono-lingual and cross-lingual datasets of SemEval-14 and SemEval-17.
-
----
 
 # Inspiration
 
