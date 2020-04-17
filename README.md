@@ -20,7 +20,7 @@ To address the issues mentioned above, we propose a framework that integrates th
 
 The overall framework is as shown in **Fig. 1**, including three modules: (1) mono-lingual word, entity learning, (2) cross-lingual text regularizer, and (3) joint learning of text and entity.
 
-![framework.png](resources/9CECB240C16428259BFA08AA84D7BFF7.png =821x506)
+![framework.png](framework.png =821x506)
 <center style="font-size:14px;color:#C0C0C0;text-decoration:underline">Fig. 1: Framework of joint model.</center>
 
 The model is based on Skip-Gram algorithm. In our method, we train all words, and KB entities embeddings jointly, including mono-lingual and cross-lingual embeddings. 
