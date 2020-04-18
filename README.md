@@ -51,7 +51,7 @@ Language | 1st  | 2nd
 
 If you found this work helpful, consider citing the work as:
 
-``
+```
 @InProceedings{10.1007/978-981-15-0118-0_33,
 author="Lu, Hsuehkuan
 and Cao, Yixin
@@ -69,6 +69,6 @@ address="Singapore",
 pages="425--440",
 isbn="978-981-15-0118-0"
 }
-``
+```
 
 ---
