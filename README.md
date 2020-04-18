@@ -52,22 +52,23 @@ Language | 1st  | 2nd
 If you found this work helpful, consider citing the work as:
 
 ```
-@InProceedings{10.1007/978-981-15-0118-0_33,
-author="Lu, Hsuehkuan
-and Cao, Yixin
-and Lei, Hou
-and Li, Juanzi",
-editor="Cheng, Xiaohui
-and Jing, Weipeng
-and Song, Xianhua
-and Lu, Zeguang",
-title="Knowledge-Enhanced Bilingual Textual Representations for Cross-Lingual Semantic Textual Similarity",
-booktitle="Data Science",
-year="2019",
-publisher="Springer Singapore",
-address="Singapore",
-pages="425--440",
-isbn="978-981-15-0118-0"
+@InProceedings{
+	10.1007/978-981-15-0118-0_33,
+	author="Lu, Hsuehkuan
+	and Cao, Yixin
+	and Lei, Hou
+	and Li, Juanzi",
+	editor="Cheng, Xiaohui
+	and Jing, Weipeng
+	and Song, Xianhua
+	and Lu, Zeguang",
+	title="Knowledge-Enhanced Bilingual Textual Representations for Cross-Lingual Semantic Textual Similarity",
+	booktitle="Data Science",
+	year="2019",
+	publisher="Springer Singapore",
+	address="Singapore",
+	pages="425--440",
+	isbn="978-981-15-0118-0"
 }
 ```
 
