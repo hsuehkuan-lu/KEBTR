@@ -28,7 +28,7 @@ The model is based on Skip-Gram algorithm. In our method, we train all words, an
 
 # Experiment
 
-In this work, we use [SemEval-2017 STS task](http://alt.qcri.org/semeval2017/task1/) as our evaluating dataset.
+In this work, we use [SemEval-2017 STS Task](http://alt.qcri.org/semeval2017/task1/) as our evaluating dataset.
 
 In the experiment, we compare our method with other 5 cross-lingual embeddings methods. The comparing methods include BiCVM, BilBOWA, BWE Skip-Gram, VecMap, and LASER. And we use same dataset to train all the models, and the results are reported in the following table:
 
