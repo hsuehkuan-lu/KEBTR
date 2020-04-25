@@ -42,8 +42,8 @@ In this work, we choose three languages (English, Chinese, Spanish) as our main 
 
 Language | 1st  | 2nd
  :---: | :---: | :---:
-  En-Zh | [En](https://drive.google.com/open?id=1yLoYLbJHcYbDassVyEEVc2oY_pQ2zu-m)1.85G | [Zh](https://drive.google.com/open?id=1pVlW7CPapJnO08tGGbILSoaONvG1xD73)2.4G
-  En-Es | [En](https://drive.google.com/open?id=1iZVP-UxY-3phNYt_dhBw7D34-YWaOD10)1.7G | [Es](https://drive.google.com/open?id=1m6e2YnYixWihHTIXKpVrgycHO7ppVN8Z)1.8G
+  En-Zh | [En](https://drive.google.com/open?id=1yLoYLbJHcYbDassVyEEVc2oY_pQ2zu-m) (1.85G) | [Zh](https://drive.google.com/open?id=1pVlW7CPapJnO08tGGbILSoaONvG1xD73) (2.4G)
+  En-Es | [En](https://drive.google.com/open?id=1iZVP-UxY-3phNYt_dhBw7D34-YWaOD10) (1.7G) | [Es](https://drive.google.com/open?id=1m6e2YnYixWihHTIXKpVrgycHO7ppVN8Z) (1.8G)
   
 ---
 
